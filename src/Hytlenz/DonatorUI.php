@@ -1,6 +1,6 @@
 <?php
 
-namespace Hytlenz;
+namespace DonatorUI;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
